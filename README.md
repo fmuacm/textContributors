@@ -24,4 +24,4 @@ Please complete the following by November 1st. This should be the next time we w
 # Contributors
 
 * Trey Watford
-* Will Dixon
+* Will Dixon Is better
