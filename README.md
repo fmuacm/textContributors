@@ -4,6 +4,8 @@ This is used to test who knows how to create a branch and submit a Pull Request.
 
 ## TODO
 
+Please complete the following by November 1st. This should be the next time we will be back.
+
 * Clone this repository locally
 * Make a branch with your name (IE `willdixon`)
 * Switch to the branch
