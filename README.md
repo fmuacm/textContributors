@@ -23,6 +23,6 @@ Please complete the following by November 1st. This should be the next time we w
 
 # Contributors
 
-* Trey Watford
+* Trey Watford is Bester
 * Will Dixon Is better
 * Chris Bracey Is betterer
