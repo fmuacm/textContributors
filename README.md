@@ -26,4 +26,5 @@ Please complete the following by November 1st. This should be the next time we w
 * Trey Watford is Bester
 * Will Dixon Is better
 * Chris Bracey Is betterer
-* Dylan Leon waz here
+* Kyle Heath Is bettererer
+* Dylan Leon is the sun god
