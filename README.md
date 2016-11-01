@@ -27,3 +27,5 @@ Please complete the following by November 1st. This should be the next time we w
 * Will Dixon Is better
 * Chris Bracey Is betterer
 * this line should create a merge conflict --------
+* Kyle Heath is bettererer
+* Rodney Greene is Supreme. Know what I mean?
