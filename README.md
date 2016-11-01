@@ -24,7 +24,8 @@ Please complete the following by November 1st. This should be the next time we w
 # Contributors
 
 * Trey Watford is Bester
-* Will Dixon is better
-* Chris Bracey is betterer
+* Will Dixon Is better
+* Chris Bracey Is betterer
+* this line should create a merge conflict --------
 * Kyle Heath is bettererer
 * Rodney Greene is Supreme. Know what I mean?
